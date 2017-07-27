@@ -1,0 +1,9 @@
+{
+  "name": "angular.test",
+  "version": "0.0.0",
+  "description": "Angular.Test",
+  "main": "server.js",
+  "author": {
+    "name": "ahusain3"
+  }
+}
